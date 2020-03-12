@@ -1,0 +1,5 @@
+﻿  t.c
+e:\c语言学习\test_3_12\test_3_12\t.c(98): warning C4133: “函数”: 从“int [20]”到“const char *”的类型不兼容
+e:\c语言学习\test_3_12\test_3_12\t.c(97): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  test_3_12.vcxproj -> E:\C语言学习\test_3_12\Debug\test_3_12.exe
+  test_3_12.vcxproj -> E:\C语言学习\test_3_12\Debug\test_3_12.pdb (Partial PDB)
