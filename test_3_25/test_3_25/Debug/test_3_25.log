@@ -1,0 +1,5 @@
+﻿  test.c
+e:\c语言学习\test_3_25\test_3_25\test.c(43): error C2065: “p”: 未声明的标识符
+e:\c语言学习\test_3_25\test_3_25\test.c(43): error C2100: 非法的间接寻址
+e:\c语言学习\test_3_25\test_3_25\test.c(43): error C2106: “=”: 左操作数必须为左值
+e:\c语言学习\test_3_25\test_3_25\test.c(39): warning C4047: “初始化”:“int *”与“int (*)[10]”的间接级别不同
