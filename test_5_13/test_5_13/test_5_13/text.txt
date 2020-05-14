@@ -1,0 +1,10 @@
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=0
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=1
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=2
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=3
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=4
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=5
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=6
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=7
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=8
+file:e:\代码\c进阶\test_5_13\test_5_13\test.c line:33 date:May 14 2020 time:15:58:10 i=9
